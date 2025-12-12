@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Currently studying software engineering and telecommunications
+- Currently studying telecommunications and informatics engineering
 - I mainly work on my Team Fortress 2 mod, ![skyhud](https://github.com/skaiTF/skyhud) 
